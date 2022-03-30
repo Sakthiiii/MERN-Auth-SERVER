@@ -22,9 +22,8 @@
     "express": "^4.17.3",
     "mongoose": "^6.2.7",
     "nodemon": "^2.0.15",
-    "serve-favicon": "^2.5.0"
-  },
-  "devDependencies": {
+    "serve-favicon": "^2.5.0",
     "concurrently": "^7.0.0"
   }
+  
 }
